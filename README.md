@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Elton Xavier 😁
+## Welcome to Elton Xavier's profile 😁
 
  <div>
    <a href="https://github.com/Xavmoraes">
